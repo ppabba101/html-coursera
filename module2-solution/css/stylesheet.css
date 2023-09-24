@@ -191,6 +191,8 @@
       width: 91.66%;
     }
     .col-sm-12 {
-      width: 100%;
+      width: 98%;
+      margin-left: 1%;
+      margin-right: 1%;
     }
   }
